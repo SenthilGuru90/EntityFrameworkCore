@@ -1,0 +1,2 @@
+# EntityFrameworkCore
+ Practicing EntityFrameworkCore
